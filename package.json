@@ -1,0 +1,17 @@
+{
+  "name": "FileDownload",
+  "version": "1.0.0",
+  "private": true,
+  "author": "",
+  "copyright": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
